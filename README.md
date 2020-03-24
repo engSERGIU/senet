@@ -1,8 +1,4 @@
-# senet
-Senet - An ancient Egyptian board game written in Javascript
+# Senet
 
-This game is based on a modified version of craftyjs 0.4.3.
-
-To play, open index.html in a browser.  Rules are shown below the game board.
-
-(c) Erik Dillingham, 2010
+- game for web browser
+- using Kendall's rules with 7 pieces ([http://player2.redecas.com/senet](http://player2.redecas.com/senet))
